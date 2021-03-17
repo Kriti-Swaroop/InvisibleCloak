@@ -7,4 +7,4 @@ It is made by 4 steps:
   3) Segmenting out the red cloth by generating a mask
   4) Displaying the final image
 
-In simple words, we will store the background image, find the red coloured cloth in the video, replace that part with the background image and finallu display the video with replaced part of red cloth.
+In simple words, we will store the background image, find the red coloured cloth in the video, replace that part with the background image and finally display the video with replaced part of red cloth.
